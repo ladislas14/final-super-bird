@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KU SuperBirds",
+"productVersion": "0.1",
+"dataUrl": "Super Bird GL.data.unityweb",
+"wasmCodeUrl": "Super Bird GL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Super Bird GL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
